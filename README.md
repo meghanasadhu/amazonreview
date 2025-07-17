@@ -1,4 +1,4 @@
-Title: NLP-Driven Query Answering and Summarization for Amazon Reviews
+# NLP-Driven Query Answering and Summarization for Amazon Reviews
 1. Motivation  
 The vast amount of data generated from online reviews can be overwhelming for buyers, making
 it difficult for them to get current information quickly. Although the number of stars helps some
